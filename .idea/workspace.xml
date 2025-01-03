@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69254635-555f-4678-ad7f-2220f56c0820" name="Changes" comment="" />
+    <list default="true" id="69254635-555f-4678-ad7f-2220f56c0820" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatglm/gen_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chatglm/gen_dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peft/peft_qlora_chatglm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/peft/peft_qlora_chatglm.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/root/python/LLM-quickstart-leon",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/root/python/LLM-quickstart",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +66,7 @@
       <workItem from="1735827721353" duration="381000" />
       <workItem from="1735828146703" duration="5200000" />
       <workItem from="1735877437799" duration="2334000" />
+      <workItem from="1735887100047" duration="7055000" />
     </task>
     <servers />
   </component>
