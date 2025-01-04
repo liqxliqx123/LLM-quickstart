@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69254635-555f-4678-ad7f-2220f56c0820" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantization/AutoGPTQ_opt-2.7b.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/quantization/AutoGPTQ_opt-2.7b.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="69254635-555f-4678-ad7f-2220f56c0820" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +66,7 @@
       <workItem from="1735915648649" duration="257000" />
       <workItem from="1735960806793" duration="47000" />
       <workItem from="1735960861585" duration="367000" />
+      <workItem from="1735987798061" duration="58000" />
     </task>
     <servers />
   </component>
