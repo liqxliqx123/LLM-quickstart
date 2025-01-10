@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<module version="4">
-=======
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="llm-ft" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="/usr/bin/python3" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
->>>>>>> 629c97be3acc27e80c24e906972079e24b46f8ae
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
     <option name="myDocStringFormat" value="Plain" />
