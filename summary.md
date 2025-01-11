@@ -19,6 +19,17 @@
 3. **工具链的熟练应用**：学习并掌握了如Hugging Face Transformers、DeepSpeed、LoRA等主流工具链和框架的使用方法，提升了开发效率。
 4. **思维方式的转变**：在课程中，老师不仅教授技术，更强调了如何根据业务需求合理选择模型和微调策略。这种以目标为导向的思维方式对我的工作有很大帮助。
 
+训练营的作业使用我动手实践了下面的内容：
+
+1. 使用pipeline API 指定模型完成特定的任务
+2. 使用yelp 数据集在 google bert上进行FFT
+3. 使用common-voice 数据集 在 openAI whisper-large-v2上 进行Lora PEFT
+4. 使用 GPTQ,AWQ 量化加载 facebook OPT模型
+5. 使用advertiseGen 数据集 在 ChatGLM3-6B上 进行QLora PEFT
+6. 使用私有化数据(GPT生成) 进行微调
+7. 使用deepspeed 将GPU的资源需求部分替换为CPU,mem
+
+
 #### 工作中的应用与成果
 
 学完课程后，我尝试将所学知识应用到实际工作中，取得了一些关键成果：
